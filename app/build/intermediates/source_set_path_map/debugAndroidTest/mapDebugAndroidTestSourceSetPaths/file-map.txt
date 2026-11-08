@@ -1,0 +1,4 @@
+it.francesco.keyvault.test.app-androidTest-0 C:\Users\franc\Downloads\KeyVaultAndroid (1)\KeyVaultAndroid\app\build\generated\res\resValues\androidTest\debug
+it.francesco.keyvault.test.app-mergeDebugAndroidTestResources-1 C:\Users\franc\Downloads\KeyVaultAndroid (1)\KeyVaultAndroid\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+it.francesco.keyvault.test.app-mergeDebugAndroidTestResources-2 C:\Users\franc\Downloads\KeyVaultAndroid (1)\KeyVaultAndroid\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+it.francesco.keyvault.test.app-debugAndroidTest-3 C:\Users\franc\Downloads\KeyVaultAndroid (1)\KeyVaultAndroid\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
